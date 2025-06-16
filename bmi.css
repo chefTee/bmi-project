@@ -699,7 +699,8 @@ footer{
 /* TABLET SCREENS */
 @media (max-width: 900px){
 .head-section{
-   margin-bottom: 15rem;
+   /* margin-bottom: 15rem; */
+   margin-bottom: 1rem;
 }
 .bmi-head-content .bmi-summary{
    width: 100%;
@@ -801,7 +802,7 @@ footer{
 
 @media (max-width: 630px){
 .head-section{
-   margin-bottom: 20rem;
+   /* margin-bottom: 20rem; */
 }
 .bmi-summary-info .title{
    font-size: 2em;
@@ -1240,7 +1241,7 @@ footer{
 }
 @media (max-width: 270px){
 .head-section{
-   margin-bottom: 25rem;
+   /* margin-bottom: 25rem; */
 }
 .bmi-summary-info .title{
    width: 85%;
