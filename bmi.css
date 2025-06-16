@@ -714,7 +714,7 @@ footer{
    margin-top: 3rem;
    width: 90%;
    position: absolute;
-   top: 100%;
+   top: 50%;
    left: 50%;
    transform: translate(-50%, -50%);
 }
@@ -1123,7 +1123,7 @@ footer{
 @media (max-width: 390px){
 .bmi-head-content .bmi-calculator{
    margin-top: 3rem;
-   top: 108%;
+   /* top: 80%; */
    padding-right: 0rem;
 }
 .bmi-summary-info .title{
@@ -1193,7 +1193,7 @@ footer{
 }
 .bmi-head-content .bmi-calculator{
    margin-top: 7rem;
-   top: 117%;
+   /* top: 100%; */
 }
 .bmi-calculator .bmi-units-section{
    width:  200px;
