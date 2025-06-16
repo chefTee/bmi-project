@@ -889,6 +889,9 @@ footer{
 
 /* MOBILE SCREENS */
 @media (max-width: 490px){
+.head-section{
+   margin-bottom: 15rem;
+}
 .bmi-summary .logo img{
    padding-top: 4%;
    width: 10%;
@@ -903,7 +906,7 @@ footer{
 }
 .bmi-head-content .bmi-calculator{
    margin-top: 10rem;
-   top: 50%;
+   top: 45%;
    padding-right: 0rem;
 }
  .bmi-calculator .instruction{
@@ -1186,9 +1189,6 @@ footer{
 }
 }
 @media (max-width: 330px){
-.head-section{
-   margin-bottom: 25rem;
-}
 .bmi-summary .logo img{
    width: 20%;
 }
